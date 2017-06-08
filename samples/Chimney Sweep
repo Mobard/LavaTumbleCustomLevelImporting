@@ -9,7 +9,8 @@
 		],
 		"overrides": {
 			"BrickColor": "Bright green",
-			"Transparency": 0.5
+			"Transparency": 0.5,
+			"CanCollide": false
 		}
 	}],
 	"instructions": "Touch the green block",
