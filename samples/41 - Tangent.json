@@ -1,9 +1,9 @@
 {
-    "instructions": "Stay alive for 30 seconds",
+    "instructions": "Stay alive for 300 seconds",
     "gameplayOptions": {
         "head": [6, 1, 6],
         "blockInterval": 0.8,
-        "requiredDuration": 30
+        "requiredDuration": 300
     },
     "entry": [6, 1, 6],
     "awaitOutcome": "keepAlive",
